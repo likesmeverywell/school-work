@@ -1,0 +1,9 @@
+@startuml
+interface cinterface_flugfaehig.Flugfaehig {
+~ {static} double MAX_SPEED
+~ void fliege()
+~ double getFlugGeschwindigkeit()
+}
+
+
+@enduml
